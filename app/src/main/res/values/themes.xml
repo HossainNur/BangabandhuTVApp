@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.BangabandhuTVApp" parent="@style/Theme.Leanback" />
+</resources>
